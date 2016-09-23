@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "238384725261",
+    "firebase_url": "https://picky-fea8f.firebaseio.com",
+    "project_id": "picky-fea8f",
+    "storage_bucket": "picky-fea8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238384725261:android:66c18f83dddd1952",
+        "android_client_info": {
+          "package_name": "com.example.farzicoder.picky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238384725261-8dbooaufr961acvqq4crc84h6a3e1qgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuW4HFJCaydKVzWr-qdrSggcZDSTbpdyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -44,6 +44,8 @@ public class ShopClickFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.fragment_shop_click, container, false);
+//        ImageView img = (ImageView) rootView.findViewById(R.id.shopImg);
+//        img.setImageResource(R.drawable.shop1);
         ListView listView = (ListView) rootView.findViewById(R.id.listOfProducts);
         CustomList adapter = new CustomList(getActivity(), arrProduct, arrProductImage);
         listView.setAdapter(adapter);
